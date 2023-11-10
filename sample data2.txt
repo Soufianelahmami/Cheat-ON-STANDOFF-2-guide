@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2344104-1",
+"yandex_inter":"R-M-2344104-3",
+"yandex_native":"R-M-2344104-2",
+"yandex_reward":"R-M-2344104-4",
   
 
 
@@ -32,18 +32,7 @@
 "native_network_choice":"yandex"
   
 
-},
-  "my_data":[
-  {"title":"helper pack 1","desc":"Standoff 2 is a popular first-person shooter game that has been gaining popularity among gamers worldwide. The game offers various modes, including Deathmatch, Defuse the Bomb, and Capture the Flag, and players can choose between different characters with unique abilities.","photo":"https://iili.io/HeDo7XS.jpg"},
-  {"title":"tips mod 2","desc":"First-person shooter game Standoff 2 has become more well-liked among players all over the world. The game features a number of game modes, such as Deathmatch, Defuse the Bomb, and Capture the Flag, and players can select from a variety of heroes, each with their own special skills.","photo":"https://iili.io/HeDoYL7.jpg"},
-  {"title":"how to use this app 3","desc":"Like any other game, Standoff 2 can be challenging, and some players may be tempted to use cheat codes or hacks to gain an unfair advantage. This is where the Cheat On Standoff 2 Guide Application comes in, offering players an easy way to access cheat codes and hacks.","photo":"https://iili.io/HeDocB9.jpg"},
-  {"title":"advance pack 4","desc":"The Cheat On Standoff 2 Guide Application is a mobile app that provides users with cheat codes and hacks to use in Standoff 2. The app claims to be easy to use, with a user-friendly interface that allows players to quickly access the cheats they need.","photo":"https://iili.io/HeDoAml.jpg"},
-  {"title":"helper mod 5","desc":"A mobile application called Cheat On Standoff 2 Guide gives consumers access to cheats and hacks for Standoff 2. The program advertises itself as being simple to use, with an intuitive layout that enables users to easily find the hacks they require.","photo":"https://iili.io/HeDoT7f.jpg"},
-  {"title":"advice pack 6","desc":"The app offers a wide range of cheats, including wallhacks, aimbots, and more. These cheats can give players an unfair advantage, allowing them to see through walls or aim directly at their opponents' heads, for example.","photo":"https://iili.io/HeDoue4.jpg"},
-  {"title":"tips mod 7","desc":"Using cheat codes or hacks in video games is generally not legal, and Standoff 2 is no exception. The game's terms of service explicitly prohibit the use of third-party software that modifies the game's code or gives players an unfair advantage.","photo":"https://iili.io/HeDoIdG.jpg"},
-  {"title":"helper pack 8","desc":"Furthermore, using cheats or hacks can result in a ban from the game, meaning that players who are caught using them may lose access to their account and any progress they have made.","photo":"https://iili.io/HeDo5I2.jpg"}
-
-   ]
+}
  
 }
    
